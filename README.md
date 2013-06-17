@@ -3,20 +3,9 @@ zf2
 
 Playground for zf2 modules
 
+Project installieren:
+- composer self-update
+- composer install
 
-ich habe was geändert
-qwerqw
-
-
-jetzt nochmal
-
-
-test für bilal
-
-1
-
-wir testen und testen
-
-
-nun aber
-teste
+Später für neue module oder libraries 
+- composer update 
