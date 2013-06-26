@@ -43,3 +43,10 @@ Virtual Host
 ------------
 Afterwards, set up a virtual host to point to the public/ directory of the
 project and you should be ready to go!
+
+
+
+Modul ZF-Commons / ZfcUser
+======================= 
+For more detail pls see:
+https://github.com/ZF-Commons/ZfcUser
